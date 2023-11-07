@@ -1,5 +1,6 @@
-## Zomato Landing Page Clone
+## Project Demo or Link : 
 https://nitheesh-parkala.github.io/Zomato-Landing-Page-Clone/
+## Zomato Landing Page Clone
 <!-- downloading the repo or project from the git -->
 git clone https://github.com/rohandt0002/209231102321023-01.git
 
